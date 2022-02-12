@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Henry Network',
-    description: " A social network was created exclusively for the soyHenry community, in it you can create publications, find friends, chat, and create experiences that is an exclusive function where students share their experiences studying the different modules of the program. A small and complex social network that demonstrates the uses of the technologies previously named",
+    description: " A social network was created exclusively for the soyHenry community, in it you can create publications, find friends, chat, and create experiences that is an exclusive function where students share their experiences studying the different modules of the program. A small and complex social network.",
       image: '/images/suggestions.png',
       tags: [ 'React','Redux','JavaScript', 'Node', 'Mongo', 'Express',],
     source: 'https://github.com/Agus-Sartorio/socialNetwork',
