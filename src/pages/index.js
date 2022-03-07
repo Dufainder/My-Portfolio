@@ -14,7 +14,7 @@ const Home = () => {
       <Section grid>
         <Hero />
         <BgAnimation/>
-        <img src={'/images/profile.jpg'} className={'imgRedonda'} />
+        <img src={'/images/profile.png'} className={'imgRedonda'} />
       </Section>
       <Projects />
       <Technologies />

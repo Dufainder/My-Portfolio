@@ -24,12 +24,14 @@ const Projects = () => (
       <TitleContent></TitleContent>
       <TagList>
         {tags.map((tag, i)=>(
-          <Tag key={i}>{tag}</Tag>
+          <div key={i}>
+            <Tag>{tag}</Tag>
+          </div>
         ))}
         </TagList> 
     </div>
     <UtilityList>
-      <ExternalLinks href={visit}>View</ExternalLinks>
+      <ExternalLinks href={visit}>Deploy</ExternalLinks>
         <ExternalLinks href={source}>Code</ExternalLinks>
     </UtilityList>
 </BlogCard>
