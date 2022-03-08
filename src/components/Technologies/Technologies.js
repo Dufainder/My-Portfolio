@@ -19,8 +19,8 @@ const Technologies = () =>  (
            <ListTitle>Front-End</ListTitle>
            <ListParagraph>
              Experience with <br/>
-             React.js, Redux, Styled Components, Next.js, 
-             css, HTML, JavaScript, Boostrap
+             React.js, Redux, Styled-components, Next.js, 
+             CSS, HTML, JavaScript, Boostrap, Vue.js
            </ListParagraph>
          </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br/>
             Node.js, Express, axios, SQL, SQLPostgress, <br/>
-            Squelize, Git and Github, JavaScript
+            Squelize, Git and Github, JavaScript, MongoDB
           </ListParagraph>
         </ListContainer>
      </ListItem>
